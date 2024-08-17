@@ -47,7 +47,7 @@ namespace DesafioFundamentos.Models
             }
             else
             {
-                Console.WriteLine("Desculpe, esse veículo não está estacionado aqui. Confira se digitou a placa corretamente");
+                Console.WriteLine("Desculpe, veículo não encontrado, digite novamente.");
             }
         }
 
